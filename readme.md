@@ -7,7 +7,7 @@ The project involves the creation of an e-learning website using HTML, CSS, Boot
 
 ## Introduction
 
-Secret Coder is an e-learning website designed to provide a user-friendly and responsive platform for learners to access educational content. The project incorporates HTML, CSS, Bootstrap 5, and JavaScript to create an interactive and visually appealing learning experience.
+Smart Learn is an e-learning website designed to provide a user-friendly and responsive platform for learners to access educational content. The project incorporates HTML, CSS, Bootstrap 5, and JavaScript to create an interactive and visually appealing learning experience.
 
 ## Features
 
@@ -44,17 +44,5 @@ Before you begin, ensure you have the following prerequisites:
 - Bootstrap 5
 - JavaScript
 
-📱 Moreover, I've ensured that the website is fully responsive on all screens, making it accessible and user-friendly across various devices. 📱💡
-
-## Contributing 
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](/issues).
-
-## Show your support 
-
-Give a ⭐️ if you like this project!
 
 
-## License
-
-This project is **free to use** and does not contains any license.
